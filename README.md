@@ -5,7 +5,7 @@ A high-performance, interactive Monte Carlo simulation dashboard built for syste
 ## 🎯 Overview
 
 When trading, especially under strict Prop Firm rules (e.g., hard stop drawdowns), knowing your edge isn't enough. You need to understand the variance. This dashboard simulates thousands of equity curves instantly, giving you a realistic picture of your strategy's expected performance, drawdowns, and streaks.
-
+![Trading Dashboard Preview](dashboard-preview.png)
 ## ✨ Key Features
 
 * **⚡ Lightning Fast Simulations:** Run up to thousands of Monte Carlo simulations instantly right in the browser.
